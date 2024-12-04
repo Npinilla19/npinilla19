@@ -1,16 +1,15 @@
 # Hola 👋, soy Nicole Pinilla
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+Soy Nicole Pinilla, una desarrolladora full stack con especialización en Python, residente en Valdivia, Chile. A mis 31 años, recientemente completé mi primer bootcamp de programación, donde adquirí una sólida formación en desarrollo web. Durante mi proceso de aprendizaje, he trabajado en diversos proyectos, algunos finalizados y otros en proceso de revisión y mejora.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+En este portafolio, presento el resultado de mi esfuerzo y crecimiento profesional, reflejando las habilidades técnicas y conocimientos adquiridos a través de los proyectos que he desarrollado. Mi objetivo es demostrar mi capacidad para crear soluciones eficientes y de calidad, y seguir aprendiendo en el dinámico mundo de la programación.
 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<npinilla89@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/nicole-pinilla-99a408316/)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes visitar mi **[sitio web](https://npinilla19.github.io/portafolio-npinilla/)**
 
 ### 🎨 Frontend
 
